@@ -56,7 +56,7 @@ The player will learn the rules of the game as tutorials will pop up in every st
 
 ### 5. Resources
 
-The resources of this game will be puppets, clothes, dressing items.
+The resources of this game will be puppets, clothes, dressing items, jewelries.
 These resources will eventually make a player win or lose the game. If used as the judge liked.
 The players can attain these resources from the inventory and collection of puppets and clothings. As they win games they can achieve more coins to buy new items.
 The players will see the resources they can choose and also the blocked resources if they need more cash and points.
@@ -94,6 +94,7 @@ We searched for similar games using the expression "Styling Game"
 
 (https://www.nintendo.com/us/store/products/fashion-dreamer-switch/)
 
+This game is for nintendo.
 This game is an online game for creating your own fashion boutique, your main goal is to become a online fashion influencer.
 Our game is meant to be in a competitive anvironment and try to style better than your opponent, in order to impress the judge in the limited time you get.
 
@@ -104,15 +105,26 @@ Our game is meant to be in a competitive anvironment and try to style better tha
 
 https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=en&gl=US&pli=1
 
+This game is a Phone game.
+In this game you recieve points when you log in daily, there is also an option to buy coins with real cash to buy different styles that expires in a specific timeline.
+After you finish to recieve all the daily bonuses ( and there are a lot) you design a person with limited inventory.
+You will have to compete against another person that designed and you compete about your OOTD and also you have to pose. The ranking is being chosen by the game.
+
+Our game is different by that you compete against someone and you have a third player to be the judge, you have to style several puppets.
+You don't need to pay real cash to buy items and there is the factor of limited time to style up the puppets.
 
 
-#3. Technicity
+#3. Fashion Battle
 
-![image](https://github.com/GameCourse2024/City_Crafting/assets/45041126/64010779-2951-445c-bae9-35ab2f3aa62a)
+![image](https://github.com/GameCourse2024/Puppet_Designer/assets/45041126/48e9bc12-dbd6-47d9-ad97-8b6ccf39f2a8)
 
-https://store.steampowered.com/app/781180/Technicity/
 
-The game is set a different environment, a more industrial and technology based city while ours is a medival one and puts delegation to use and this game doesn't
+https://play.google.com/store/apps/details?id=tr.com.apps.fashion.battle&hl=en&gl=US
+
+In this game you are against another participant, the players start without clothes and walk on such as model walkway, as they proceed to walk they have to choose in a limited time a specific wearing item such as glasses, pants, earings in a limited time as the characters walk.
+Each character is being ranked by the game randomly.
+
+In our game the concept is different, you choose several dolls and a real person ranks you and there is a specific winner.
 
 
 
